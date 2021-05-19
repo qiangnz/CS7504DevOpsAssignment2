@@ -33,19 +33,15 @@ steps:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
     
-- task: CopyFiles@2
+- task: DotNetCoreCLI@2
   inputs:
-    SourceFolder: '$(Build.Repository.LocalPath)/target'
-    Contents: '**'
-    TargetFolder: '$(Build.ArtifactStagingDirectory)'
-    CleanTargetFolder: true
-    OverWrite: true
-  condition: and(succeeded(), ne(variables['Build.Reason'], 'PullRequest'))
+    command: publish
+    publishWebProjects: True
+    arguments: '--configuration $(BuildConfiguration) --output $(Build.ArtifactStagingDirectory)'
+    zipAfterPublish: True
 
-
-- task: PublishBuildArtifacts@1
+# this code takes all the files in $(Build.ArtifactStagingDirectory) and uploads them as an artifact of your build.
+- task: PublishPipelineArtifact@1
   inputs:
-    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
-    ArtifactName: 'SpringFramework_fullsources'
-    publishLocation: 'Container'
-  condition: and(succeeded(), ne(variables['Build.Reason'], 'PullRequest'))
+    targetPath: '$(Build.ArtifactStagingDirectory)' 
+    artifactName: 'myWebsiteName'
