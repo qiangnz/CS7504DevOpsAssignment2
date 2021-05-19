@@ -1,0 +1,210 @@
+<<<<<<< HEAD
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\CS7504DevOpsAssignment1.dll.config
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\CS7504DevOpsAssignment1.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\CS7504DevOpsAssignment1.pdb
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\csc.exe
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\csc.exe.config
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\csc.rsp
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\csi.exe
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\csi.exe.config
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\csi.rsp
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.CSharp.Core.targets
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.Managed.Core.targets
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.AppContext.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Collections.Immutable.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Console.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.IO.Compression.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.IO.FileSystem.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.IO.Pipes.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Reflection.Metadata.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Security.AccessControl.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Security.Claims.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Security.Principal.Windows.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.ValueTuple.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Xml.ReaderWriter.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Xml.XmlDocument.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Xml.XPath.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\vbc.exe
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\vbc.exe.config
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\vbc.rsp
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\VBCSCompiler.exe
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\VBCSCompiler.exe.config
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\Microsoft.Web.Infrastructure.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Helpers.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Mvc.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Razor.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Webpages.Deployment.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Webpages.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Webpages.Razor.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Razor.xml
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Webpages.xml
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Webpages.Deployment.xml
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Webpages.Razor.xml
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Helpers.xml
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Mvc.xml
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\obj\Debug\CS7504DevOpsAssignment1.csprojAssemblyReference.cache
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\obj\Debug\CS7504DevOpsAssignment1.csproj.CoreCompileInputs.cache
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\obj\Debug\CS7504DevOpsAssignment1.csproj.CopyComplete
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\obj\Debug\CS7504DevOpsAssignment1.dll
+\\NAS4.soit.local\Homes\john.villanueva\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\obj\Debug\CS7504DevOpsAssignment1.pdb
+=======
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\CS7504DevOpsAssignment1.dll.config
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\CS7504DevOpsAssignment1.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\CS7504DevOpsAssignment1.pdb
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\csc.exe
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\csc.exe.config
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\csc.rsp
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\csi.exe
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\csi.exe.config
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\csi.rsp
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.AppContext.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Collections.Immutable.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Console.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.IO.Compression.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.IO.FileSystem.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.IO.Pipes.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Security.AccessControl.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Security.Claims.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.ValueTuple.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Xml.XPath.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\vbc.exe
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\vbc.exe.config
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\vbc.rsp
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\VBCSCompiler.exe
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\VBCSCompiler.exe.config
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\Microsoft.Web.Infrastructure.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Helpers.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Mvc.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Razor.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Webpages.Deployment.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Webpages.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Webpages.Razor.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Razor.xml
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Webpages.xml
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Webpages.Deployment.xml
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Webpages.Razor.xml
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Helpers.xml
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Mvc.xml
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\obj\Debug\CS7504DevOpsAssignment1.csprojAssemblyReference.cache
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\obj\Debug\CS7504DevOpsAssignment1.csproj.CoreCompileInputs.cache
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\obj\Debug\CS7504DevOpsAssignment1.csproj.CopyComplete
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\obj\Debug\CS7504DevOpsAssignment1.dll
+D:\Studying T1 2021\CS7504 Security for DevOps\Assignment1\GitCoding\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\obj\Debug\CS7504DevOpsAssignment1.pdb
+>>>>>>> b694678615f1281115b3de0b9be50c61143bf190
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\CS7504DevOpsAssignment1.dll.config
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\CS7504DevOpsAssignment1.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\CS7504DevOpsAssignment1.pdb
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\csc.exe
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\csc.exe.config
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\csc.rsp
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\csi.exe
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\csi.exe.config
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\csi.rsp
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.AppContext.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Console.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Security.Claims.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\vbc.exe
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\vbc.exe.config
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\vbc.rsp
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Helpers.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Mvc.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Razor.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Webpages.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Webpages.Razor.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Razor.xml
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Webpages.xml
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Webpages.Razor.xml
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Helpers.xml
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\System.Web.Mvc.xml
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\obj\Debug\CS7504DevOpsAssignment1.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\obj\Debug\CS7504DevOpsAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\obj\Debug\CS7504DevOpsAssignment1.csproj.CopyComplete
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\obj\Debug\CS7504DevOpsAssignment1.dll
+C:\Users\Owner\Desktop\CS7504_Assignment1_John_Villanueva\CS7504DevOpsAssignment1\CS7504DevOpsAssignment1\obj\Debug\CS7504DevOpsAssignment1.pdb

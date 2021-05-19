@@ -1,0 +1,38 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/script/modernizr-2.8.3.js"></script>
+</head>
+<body>
+    <div class="header">
+        <h1 style="text-align:center;">CS7501 DevOps Assignment 2</h1>
+    </div>
+
+    <div class="row" style="text-align:center;">
+        <div class="col-12 menu">
+
+            <a href="~/Home/Index"> HomePage </a>
+            <a href="~/Client/Index"> Client </a>
+            <a href="~/Activity/Index"> Activity </a>
+            <a href="~/Search/Index"> Search</a>
+
+        </div>
+        @RenderBody()
+    </div>
+    <div class="header">
+        <h1 style="text-align:center;">20 May 2021</h1>
+    </div>
+
+</body>
+</html>
